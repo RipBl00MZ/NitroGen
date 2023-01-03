@@ -1,4 +1,3 @@
-# NitroGen
 Nitrogen Web Framework for Erlang
 Build Status
 
